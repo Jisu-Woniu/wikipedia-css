@@ -1,0 +1,27 @@
+@import "./fonts.css";
+
+body {
+  font-family: sans-serif, "Plangothic P1", "Plangothic P2";
+}
+
+.screenplay,
+code,
+tt,
+kbd,
+pre,
+samp,
+.monospace,
+.wikiEditor-ui .ace_editor {
+  font-family: monospace;
+}
+
+.mw-body h1,
+.mw-body h2,
+.mw-body h3,
+.mw-body h4,
+.mw-body h5,
+.mw-body h6,
+.mw-body dt,
+#personal h2 {
+  font-family: serif;
+}

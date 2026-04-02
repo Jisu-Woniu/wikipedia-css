@@ -1,0 +1,6 @@
+allowBuilds:
+  esbuild: true
+  lightningcss-cli: true
+blockExoticSubdeps: true
+trustPolicy: no-downgrade
+trustPolicyIgnoreAfter: 1440 # One day

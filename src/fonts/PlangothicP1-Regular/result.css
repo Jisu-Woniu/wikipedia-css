@@ -1,0 +1,3440 @@
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2fcc16c78ae143c5fbcbc87daebf3935.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2F97C-2F9D5, U+2F9D7-2FA1D, U+317AB, U+31C2D, U+31E7C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./df9ce7223c652837f52dadd66e59e528.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2F89B-2F97B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4cc0ec96642eb06d5d6c109b6fcafeb4.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EE18-2EE5D, U+2F800-2F89A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d2b84f0224ba9574d113f367daf2d6ae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2ED37-2EE17;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0cf0e5b3fc88bae1c9984eaa945b722f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EC56-2ED36;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./587b5bc084549bc5398851aa8888964f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EB66-2EBE0, U+2EBF0-2EC55;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./656abcffc3404499ee246e8bfadfd994.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EA85-2EB65;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./53bd998463f85de8883b875d8ac84333.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E9A4-2EA84;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./975b0d46d035ace5de2c74bd13a14053.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E8C3-2E9A3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./79b8338c31189014833366dd32f2e60d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E7E2-2E8C2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bbf2d6e2e4aac589e0cd25e2e9db6ed4.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E701-2E7E1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c856ad332b98f1d15e72c443430b3e59.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E620-2E700;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f11d7b8cb0ae1d91884c92e97177d0ce.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E53F-2E61F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c7fcb345e4972bc28c3fd285afba8238.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E45E-2E53E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e506d1b97be0c62fa7e25e08687e4cc6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E37D-2E45D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a57c861984368303f7b9d954a10b7c99.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E29C-2E37C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./954ad7abf13e1489d5161aa0ab34d633.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E1BB-2E29B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ce3c270952c21f93da1a35cae6debc28.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2E0DA-2E1BA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8ca793bd4f8f2067c638a69da4214026.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DFF9-2E0D9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5d703ce11090b43f8f4e73a9c820a3a4.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DF18-2DFF8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1b27b6ea35be6b35784b4a99afbf9589.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DE37-2DF17;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./51f3db394c0a954ab06db7b2b7889b7b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DD56-2DE36;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./62842143fafb7e587bd025d775222920.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DC75-2DD55;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./434b03c3b544e579c14f50c18933a796.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DB94-2DC74;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./75ea1230211ae6d020f1c08c30001ede.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2DAB3-2DB93;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6f56a214811bfdbb15902cc9a22afbd0.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D9D2-2DAB2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0cd998f29248e898d20b9f99661d6504.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D8F1-2D9D1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b0be20bfe77921bb774a82557cdbbd3b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D810-2D8F0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./344f206e65bf2754594e0fa55659e29e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D72F-2D80F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3af9e37f7456b3190139bae94578c665.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D64E-2D72E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./28fec7bcca21d582a8dfbcdfd6fc935e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D56D-2D64D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fc39be49817f5e3a26f788ed52845a42.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D48C-2D56C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./18c0f4edfc1b95e957451db0c9e95658.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D3AB-2D48B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./020168857c0e6c9d6a681bb147edf4a5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D2CA-2D3AA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./663519ce0cf2ef2e86e118fa9ea62278.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D1E9-2D2C9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./75d698bbfb45878f7c256e87068fa1cb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D108-2D1E8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3439707f90262ab782b652839efc715d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2D027-2D107;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7bbde9806c9ecf7e8b8b1c029b0aca83.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CF46-2D026;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./075c850ffa3a87cdeb994fbf4e5d8250.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CE63-2CEAD, U+2CEB0-2CF45;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./669e050c029b3fd2d72d5cc09ef033d8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CD82-2CE62;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a941ed5a0defe79c1876bf1b57ba8d0a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CCA1-2CD81;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6d10eb0cf2a48e07083aef1411f779be.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CBC0-2CCA0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1283c4968c4c4de4ff99c158ffaa2a1b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2CADF-2CBBF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0b0902f4f6cc3c37517c7076e394a19b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C9FE-2CADE;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./03a2e644e3cd8880c24c5cc3b5357135.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C91D-2C9FD;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8cd12a12bf039b30f60e640b9148131e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C83C-2C91C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fcfc68c107244eae3c50c46c90575722.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C75B-2C83B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f83c0d7f6ddaf04d6d56cd48cedaedcc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C67A-2C75A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d6e4e7618274aa77c408bb1aeb48d26d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C599-2C679;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./64144d9902b89add26b745448c84d920.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C4B8-2C598;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./52836798ec93c1a5a2bf82bd21e18b82.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C3D7-2C4B7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7dca9188eadc0fd734d2ef7ce3a5159e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C2F6-2C3D6;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4cdbeb972bfab6b56ecfc14676335feb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C215-2C2F5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./77f1dd162885ca0c431a20da120b69a2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C134-2C214;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./70dec41c501f4851a40c1d42d33e2646.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2C053-2C133;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6b4c43333ac0da8d3378c775d4cc9a72.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BF72-2C052;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1b523c9b7ad53dfbbcf8b10a9be0c352.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BE91-2BF71;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e192553fbc2b6f73c2bdad3161166862.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BDB0-2BE90;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./14c66f33881ffab558d81b38b1c7c1bd.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BCCF-2BDAF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cedfa175d563168912d9f9d693509dc5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BBEE-2BCCE;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d19cf4f0efb6c20ce330c9e21b2e7383.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BB0D-2BBED;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4883c4bd1f3ff9a62e70fcc22f85ec0e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2BA2C-2BB0C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./464d5034ebf90ebf896563580cd0cfd9.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B94B-2BA2B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5c3c53179294ec0c02a54a835abe1452.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B86A-2B94A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bd63479069f3eb85ffcebab280685479.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B788-2B81E, U+2B820-2B869;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f36e6f8089cffed19ac7e0f104c1d810.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B6A7-2B787;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./95fb78305200325c90e25b65c7198b99.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B5C6-2B6A6;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cbfabf610766dd628db766be46d98137.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B4E5-2B5C5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e9448bcae11d0fb66889ac8560eb596f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B404-2B4E4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./111f7422696bd58e2b5a1f5843d1e113.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B323-2B403;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a89a78afa1ce5f43e60da3af26a2294c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B242-2B322;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6dab2e10478b35d3629513cc9af1ddac.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B161-2B241;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./72707f8e6c1fc20f98990edd81a77c8f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2B080-2B160;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f029f517c74604950761df9b7439fd44.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2AF9F-2B07F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./02b62ba51c032580f02410a86cb3ef82.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2AEBE-2AF9E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6fb8f6fd0d74951ca9d94e1189d44196.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2ADDD-2AEBD;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./66c4d8b788dff24f2f2dc4298e13c268.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2ACFC-2ADDC;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9439f1f2589687de5ee3d7ea0ab7eac1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2AC1B-2ACFB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c1b4e8ed11b66cf1b01fa491ba53f039.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2AB3A-2AC1A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0844bab7c973d57f8a108f5f270d1ca9.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2AA59-2AB39;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./feb1d8cef0349c32c0dee8c44ce5eab0.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A978-2AA58;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./339ac8ebcd40d707c5beabf3069e8788.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A897-2A977;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8981c3658e68f7a2bfe4588ee8e2b35e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A7B6-2A896;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./35dd29b9c79aaba5806a0af5e808567a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A6B5-2A6DF, U+2A700-2A7B5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ed6e62ce309d2f179cc5c76ccac17a9c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A5D4-2A6B4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7ef55cc5a7773e4a4e19feb2691ae81d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A4F3-2A5D3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0aee3da7edf0b01a31b2277ec1c743ad.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A412-2A4F2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7b85aa8dcc8ce8407f59b379db529031.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A331-2A411;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b597962ded08423eba2cc4b34a8bcfa5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A250-2A330;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./125e8fae077da53a20096166d12dc862.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A16F-2A24F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6ea1f44f07fea78db313fed1d6d3dc9d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2A08E-2A16E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./dfab191fdd2f5b075c4955823b39a570.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29FAD-2A08D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./350ea5a12d254050a615705628cbf49a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29ECC-29FAC;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bc5a4acf7ebbcc400cf59a55c0cf5dff.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29DEB-29ECB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c3bbd59a3cefe888fead85a914988b48.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29D0A-29DEA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./813817f0e465dfac90e2ad64d5ce6d25.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29C29-29D09;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d43c08ed604e1722b9d9791a69dabd99.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29B48-29C28;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./27de8c2aaa5cc5592f94f0a2b575da36.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29A67-29B47;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9813dea2221c82db577c5a0546c2fc30.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29986-29A66;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./63d92205e59c73881f6ed59025f583dd.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+298A5-29985;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f8b03afe7660ee5fe3e4d69403ede128.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+297C4-298A4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6447667b57ca49be5a31d832fdbddbab.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+296E3-297C3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./878e12f8a88aceee7978915faa563481.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29602-296E2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7f8841a050259861f05bb570908c21ce.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29521-29601;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ea74686b2dee3675c03ab743cba65dbd.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+29440-29520;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2cefcac8e3ca1ace93ac1df277c2c6d8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2935F-2943F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./883960bbb2bbc7ecc1b2e507c64e9509.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2927E-2935E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d2611ae888b4eabd0db23a925c7d3016.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2919D-2927D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2aee830d45c4a2ed3b94e2db3f20b3f2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+290BC-2919C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3b92a2a55b4d2166ec6b4b72db731c0d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28FDB-290BB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./dc2a65c9b87a89c38f315d99075412ce.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28EFA-28FDA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1f4129366b30d696b05192c5489ea63a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28E19-28EF9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./025472c0b14458f5aad0173492050af2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28D38-28E18;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e2b4376f27ba2363824cf1c73bdb1b06.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28C57-28D37;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b6e60438542e5f0c10370c1d9730bba8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28B76-28C56;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8e8ebc96d02a4d6962c1f096967b044a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28A95-28B75;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./223f3898ea00d644ebea4e95f6d92012.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+289B4-28A94;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./831cacf29a1a2db17f8e08943d46c436.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+288D3-289B3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b737289fc8e270e38d441a9c5f4fb4d7.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+287F2-288D2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6659252bc31ac977b4f79e4efdeecad7.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28711-287F1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bbb005ef589b1bc71b8c17304e6f80af.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28630-28710;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fee56235f004c26e5043b64393d25f12.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2854F-2862F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5824ac7c7dd48f88201297cc8cae8dae.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2846E-2854E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0e5a06695cfd5dbb92449f3188a0071e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2838D-2846D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./40e53ab50a2d81230a3427a7108eb993.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+282AC-2838C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./408d05e53fe46359c7103f1eee1c8e35.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+281CB-282AB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./40498705500833817bbf169b972795a2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+280EA-281CA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b56d6465020ca36eb25f3f20ca3e985f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+28009-280E9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./266d06f6e67866cb313a798fbb46c99a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27F28-28008;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./480d3292a67e5b34494a67b59588321b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27E47-27F27;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d8b75c34a86aa01708aeb141d6990476.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27D66-27E46;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7670cb64b473f6a6ee8403fa303ab377.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27C85-27D65;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fffad505c0e10232e66b60e52191a4ef.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27BA4-27C84;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./51a9b6105211e7b51ff2c52392a57934.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27AC3-27BA3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8b2fb1b6d977f6cd5c1ae06ae9a6e94c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+279E2-27AC2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c9f49a6f9b7bf56a31026687ff1aa3dc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27901-279E1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./801af9c3714eeaf65aa901189c755068.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27820-27900;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ce456bfc4f4adf7eca861bc1b85a6b1c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2773F-2781F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0837f378fa00c9a2f439e89168afaf24.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2765E-2773E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5e0db6d35f9d8f543e8312415d22f86c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2757D-2765D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./58949a9349b2222301b7a487787630d1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2749C-2757C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./258c8cec808b43887069b2d89f3e5ccc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+273BB-2749B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./402a2c9c5849596a5cbbe86b152446fe.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+272DA-273BA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./66060d1ceb9192ff82deb1bbbe6e8b00.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+271F9-272D9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f6c11a3722507bbe86b0f63acfa33900.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27118-271F8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2f641e77b678c587cf771d9373665540.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+27037-27117;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./dbd34394809909d71b88db40631e128e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26F56-27036;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c876f96cdbb1f250b22e3239aca2eec4.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26E75-26F55;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./40bb6e2899d7c2f189048b1520693094.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26D94-26E74;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d0f4400e179a5fc693c47a4b872bff22.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26CB3-26D93;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ee862f2a0d243369c90b362a6fcf0be2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26BD2-26CB2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./da0a54eb93cf9f04fb6212491067f4e0.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26AF1-26BD1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2fb102496613d1aa7ff4193d3df83a43.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26A10-26AF0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c91c751194cc77a609e01d9dce5a03ee.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2692F-26A0F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1bd5c997e5911539e2aba16df259f9b0.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2684E-2692E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./851ef56f218e9f14ca0f280ad13e6341.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2676D-2684D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a0c5f7ff1d061003980a5f2d5f5373e6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2668C-2676C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./807f722024c15dcf42fc382f61796673.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+265AB-2668B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4c452b729f5ca932a240ba279b788006.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+264CA-265AA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./32383ab443222fe0b5f82ef823056f9e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+263E9-264C9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d26a038087a7a6604b249fe563615d15.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26308-263E8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e9eb4ea81d3fc6e5b812f5f8837aef37.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26227-26307;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2ab9279dba376773da617a2f34d87ccf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26146-26226;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./17247370226e1e1310a8bdd5239d12a2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+26065-26145;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./776c6ce2e5d7b82c667a4793b3c191e7.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25F84-26064;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1b52b4bf1cb7869361d2452949ad4171.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25EA3-25F83;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./392ff18cd9abab680eb0f1720fc21dbb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25DC2-25EA2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./787e385e01ba071b1717c36383331548.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25CE1-25DC1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e5e3d359952e4c335cc1d2b92d4e2304.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25C00-25CE0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e4219eb4f756485374651120f1189c61.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25B1F-25BFF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c4ce07b8c7afd63b451f7057d0fabaf0.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25A3E-25B1E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cfc708eabb56ef07717eb155e6fc2c72.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2595D-25A3D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cd0f602c99e85d87b375b7701d107e09.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2587C-2595C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3ab3c685b323210dafd556b851fb0379.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2579B-2587B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5ed7633ee0bad0e260f057eaa43a4fb3.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+256BA-2579A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7e8dc6675235a74a766261b28e3046b1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+255D9-256B9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./03aa0e266e403c51627a87ef824a608f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+254F8-255D8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0b130ce3967b247e8ff04ac8169db8bf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25417-254F7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d43bd52e67905343c8cd2cb86c75c347.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25336-25416;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a208f4a8bb4fec694253183f8c79bce5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25255-25335;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2c8c1e9b41951b99623464cecd25c66c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25174-25254;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./45fb1c1c81fff648d0b48ec6e4c0bf8f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+25093-25173;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./54b8e365d9d36476af18db880362d6db.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24FB2-25092;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e4bfa4f4ed9e0c748d98cf19be3ee6c6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24ED1-24FB1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./861a9c75b17ee9fd57c5a0b2d2d6bd30.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24DF0-24ED0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d56c020954b76f6b87547b7119e36e4e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24D0F-24DEF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ebe848a98b01f7267cfbd7883f83b9ca.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24C2E-24D0E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6a444869a5ff622f50db9ff00ea6dea6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24B4D-24C2D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e5a74511816b06225eac9e2038a91aaa.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24A6C-24B4C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3143d8f027ca370bfc9b27fb06c46279.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2498B-24A6B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d03580f61ea55b29fa55cdcc5b200635.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+248AA-2498A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c59e9ecaf5279b6a75d412709a95d87e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+247C9-248A9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./73d6a7e28417106324e7d023cece07cc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+246E8-247C8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bb03707051d69ca5848de7ed7e0559ff.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24607-246E7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9972e865031ac7065338d051bb706231.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24526-24606;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2b4ca151c0eb65fcec6fe36c4b7d998c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24446-24525;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./639c5ba9b8b372619b3f0d7c0d67f1f5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24366-24445;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5eab19e649a9ef8193947edb94a1ac8c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+24287-24365;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3c4399b3383b8bafad7cb8457e8721fe.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+241A9-24286;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./98147cbe66706c70b44c2bef016b9635.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+240CB-241A8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7a7efeba0b8c53c3318b20444e8c975c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23FEE-240CA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9d0933a6025ac8e53a24efcbaaa3a4cf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23F11-23FED;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1da9b7675d2ef8516d827bf8ba88d838.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23E35-23F10;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e0df19d3693cbbde588641f00fb51139.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23D5A-23E34;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./13134e493d8eaf085a170b4cc4091473.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23C7F-23D59;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2db54ef8158bd29bd52022b11aa447ef.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23BA5-23C7E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ca94b84180ffb5f3a32ded3e85ae72b6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23ACC-23BA4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8e65bdeb027e3981e0f8e51c708cd7eb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+239F3-23ACB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a22127a0889945f849cc6ac677db7ddf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2391B-239F2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f681c73b7417d78beddf659232306262.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23844-2391A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b064664bae40d5ddc52b680584f8d34f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2376D-23843;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7b502ae3ebc7829c27aca0d4199eb69f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23697-2376C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5c56c5e942296e99abf0f4656391e529.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+235C2-23696;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./25f0d04a1daa5ae6d9de912f42d43fd9.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+234ED-235C1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fbd34e92a03a9ccafb353456b0602e52.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23419-234EC;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a16798ae46d08b1347564b6d8ae185b3.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23346-23418;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./87ff5052cb8a569bb8e2b0400559f67b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+23273-23345;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./39363d35934409cd7e5831fcfb148666.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+231A1-23272;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./27a2749f1f30f19623b4fcc91ef66d4b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+230D0-231A0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./04f75db844fbc065bbb0fbe479f25578.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22FFF-230CF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e04147b0418299e6c9fa37a9f15a878a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22F2F-22FFE;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a5af99e363ce9f1c0edde009464dc780.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22E60-22F2E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./351240a51b7b0f55976b75ac24aea2fd.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22D91-22E5F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1a7e6bb98d98a630218f7f29de038edc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22CC3-22D90;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3dc4836f80c7b2ac4a2d1f972936c327.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22BF6-22CC2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./870a830ca233c450942f02effe017b6a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22B2A-22BF5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c619d17096eda061383cd8d74744c548.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22A5E-22B29;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2e6732e270151ae83e8344a162fef96e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22993-22A5D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./176d5fa2ecc2fba33bb9bc5d8ed6f36a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+228C9-22992;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./063e594bce841676b49a99be60c16acf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22800-228C8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1c666b2cc9e013bbec7b6c7186e07d8e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22737-227FF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c5b0c8e2554b3c0687a3e1eef36d15ac.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2266F-22736;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./31b31012818676ae60dc4848931b20bd.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+225A8-2266E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./10485671ea6dc8329ed31277b82bdfce.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+224E2-225A7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3d22fe6aacb624788d815830165001e6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2241C-224E1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./579748d982eac4f9b56bc47065cfb71e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22357-2241B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b9f278a9992832d89f5f8a1e9a36554e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+22293-22356;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./48879a5f641cf92f235cc8b3d617d746.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+221D0-22292;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./374270c85d2f4d62ec284d41cccee4ed.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2210E-221CF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8d7f82ea628705ab4028ba17d0d5f23b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2204C-2210D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./95ea17626f83a3e481baefa283b751c2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21F8B-2204B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./21bb1a8d5889c343dfef9819c030cb2b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21ECB-21F8A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d4a756408a3c9ef3e4e28323965cb5a2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21E0C-21ECA;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./91bb3a141aab006c77197afe4e88b5dc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21D4E-21E0B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./be5d3b6b6deee46a0299af33232637df.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21C91-21D4D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./dd2c63f474ea97afd2b00b846c473416.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21BD4-21C90;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./078bb661d0bff67aedf9c0977f19bd90.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21B18-21BD3;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cd12186bf73e7be28a110a470a607c5c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21A5D-21B17;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f0159b9888de7ef979e22ee1b35b1310.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+219A3-21A5C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8e606593a4c7161b755f29b002337008.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+218EA-219A2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a2fb6ea58b7a8026fac727f388e6dcf1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21832-218E9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4d5cc6f9486f5b269c409c9db6a5cb01.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2177B-21831;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9b872ff73b86e0d102e9f79ab250222f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+216C5-2177A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9fb9a5a5ab71299f6ee0399765e8b2f6.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21610-216C4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./16e92279b79ac5fc1760b31290c6f3df.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2155C-2160F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9ae249b2880faebb09418c08fdf8b800.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+214A8-2155B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1c422547969477955591e3c37db209b2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+213F5-214A7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./648fc75b7fda47096e41ac60274359e8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21343-213F4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d67370529750ae449df4582456bb8f4d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21292-21342;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4ff9f3c051e4e3156c2318fe74d4c96e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+211E2-21291;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./1bfe81fb448dccad8d3ffef3e801a202.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21133-211E1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4ced34064a4314e2b29d05bca07c1c91.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+21085-21132;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./65bd63c930c154fa8edd325e2f793451.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20FD8-21084;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5ba022f1e90cc18ecd2522bc03a909d3.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20F2C-20FD7;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./90019af13b9e6caac911c81de55b390a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20E81-20F2B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f09c0e5a0ad4d541994ab06c1b9436e1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20DD7-20E80;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./53aa2365647f5ffed94d9d66dd99fc33.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20D2F-20DD6;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./accffd1fb1f580bf60c37e54e12a3496.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20C88-20D2E;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9bfd6631ded4984cd8307a450326c939.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20BE2-20C87;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./af300a46352f107dcd7a8e2321345914.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20B3D-20BE1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./11186aa51c742199213fca93b2f3c9e8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20A99-20B3C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a81e931c0eefe4366d06ed9c555b00d5.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+209F6-20A98;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./cd78ef8a5397e186c733c4915ed324aa.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20954-209F5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4d60cfb11658c183836cd380e05136eb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+208B3-20953;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./11f5f0ec51cdbb95d6c9506bef898029.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20814-208B2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e7431fb05ce0f8e97653e5d3bf9527c8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20776-20813;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a092da89d13f67e14efe8f65e5a4f46d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+206D9-20775;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./3247db13bbd99c88b753250226d9204f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2063D-206D8;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./be2d3090a27d40a41c7085d50f56b0dc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+205A3-2063C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6087a6596479794190f3e0c37f400866.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2050A-205A2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c0f31da0fc8f1bb17b4477b4ffc277de.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20472-20509;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./da9f1e6ed718666444b9a804fa323fda.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+203DC-20471;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./aa9b1c5d098c14833c8c627f0114f906.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20347-203DB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./53d5929efefb82d81a366cace0195291.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+202B3-20346;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7dd76dbcdd4405405f7978c5d65b24a1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20221-202B2;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./2b97adb88031438f7c944de2ca7051cb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20190-20220;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./44424af5a7f71e6d9489b22acce02abb.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20101-2018F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./83fee46b023c4a0bacb9eb93c2e2bc5a.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+20073-20100;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./57fefe9c4b27807a050967ad49314133.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+1F017-1F02B, U+1F4BE, U+1F5AA-1F5AC, U+20000-20072;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d27c72058db1a2610ed2a70a643c087e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+FAA6-FAD9, U+18800-18801, U+1880B, U+18841-18842, U+18B01, U+18B03, U+18B36, U+18B46, U+18B54,
+    U+18B72, U+18B76, U+18B94, U+18B97, U+18BA6, U+18BAD, U+18BC2, U+18BC7, U+18BCF, U+18BD5,
+    U+18BDC, U+18BE5-18BE6, U+18C03, U+18C0C, U+18C68, U+18C6A, U+18CA1, U+18CA4, U+18CB0, U+18CB6,
+    U+18CCD, U+18E4F, U+18E6C, U+18EDF, U+18FB8, U+19041, U+19081-19082, U+191A0, U+191A3-191A5,
+    U+191A9-191AB, U+191AF-191B1, U+191B3-191B4, U+191B6-191B7, U+191BA-191BB, U+191BD,
+    U+191BF-191C0, U+191C5-191C6, U+191C9, U+191CC, U+191D0, U+191D2, U+1F000-1F016;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./46fcad321dd9db8dd08da0f9e8f080ba.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+FA1B-FA6D, U+FA70-FAA5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fc4c5d1324a328c4ea1e781c312e37bf.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+F994-FA1A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./df22326b0911eea2d4ba57afa173ba9e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+F90E-F993;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ed12a0afcd03e57361e6124ef112c55e.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+EFC2-EFDF, U+EFE1-F012, U+F014, U+F016-F038, U+F03A-F03B, U+F900-F90D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5332d0a7f072509d9ed477607d638371.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E7FF, U+EF40-EF71, U+EF73-EFC1;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./8e933057cef7f67a3baf35784720d144.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E77B-E788, U+E78A-E796, U+E798-E7EA, U+E7ED-E7FE;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./64e5ccba45c7a2b604d66579f337b17b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E5F7-E5FD, U+E5FF, U+E700-E75F, U+E764-E77A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a7eb6aa810eba824af8c26bd6705fd1f.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E574-E59F, U+E5A1-E5A5, U+E5A8-E5DE, U+E5E1-E5E5, U+E5E7-E5F6;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a56dbdd5383582abc051c5d8e2166701.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E4F6-E508, U+E50A-E517, U+E519-E54E, U+E550-E573;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5f6e205fff3ca58b0e8a10327fd2f70d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E47C-E485, U+E487-E4F5;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a294855848c6638843892decc9b7d371.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+E3F5-E3FB, U+E3FD, U+E3FF-E400, U+E402-E407, U+E409-E40E, U+E410-E417, U+E419-E440,
+    U+E442-E444, U+E446, U+E448-E44A, U+E44C-E44D, U+E44F-E451, U+E453-E45A, U+E460-E47B;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7f2e438d27ba498691f80c94669e2636.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E380-E3B4, U+E3B6-E3F4;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ab14611f992919608ec93beeebae1630.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E309-E349, U+E34C-E34F, U+E351-E35D, U+E35F-E37C, U+E37E-E37F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./0db57ab5b4368d51a907eb37b41e6a24.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E29A-E308;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4898d35e58fd3c3d5153eecca43105de.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+E22D-E299;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./4bb0df01c49893e53e74f7a4c4d561d2.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+9BCE, U+9C04, U+9D0E, U+9D11, U+9D62, U+9D65, U+9E75, U+9E78, U+9EA4, U+9FA6, U+9FA8-9FA9,
+    U+9FAC, U+9FAE, U+9FB3, U+9FBC, U+9FC0, U+9FC3-9FC4, U+9FC8, U+9FCA, U+9FE6-9FE7, U+9FEA,
+    U+9FEE-9FFF, U+E001-E022, U+E064-E065, U+E12E-E130, U+E13E-E13F, U+E141-E143, U+E157, U+E15E,
+    U+E209-E20C, U+E211, U+E220-E22C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b3515945fabc46e90cc27f4fe33bb716.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+834B, U+8374, U+8381, U+838B, U+8390, U+8397, U+83A4, U+83AE-83AF, U+83B5, U+83C4, U+83C9,
+    U+83CB, U+83D7, U+8550, U+8657, U+865D, U+8745, U+8779, U+8786, U+87E1, U+87F8, U+88D7, U+88DE,
+    U+88E1, U+891D, U+8990, U+89A8, U+8C63, U+8D71, U+8DE5, U+8EB1, U+8EB5, U+8EBE, U+8EC6-8EC7,
+    U+8F0C, U+8F4C, U+8FB5, U+8FBC, U+9018, U+9094, U+90C9, U+90DE, U+9111, U+9137, U+9142, U+9147,
+    U+91C6, U+91DB, U+91E1, U+91FB-91FC, U+921D, U+921F, U+922C, U+9243, U+9247, U+9259, U+9268,
+    U+9292, U+929F, U+92AD, U+9337, U+933B, U+934A, U+936F, U+937F, U+9402, U+941A, U+9421, U+945A,
+    U+945C, U+9484, U+9578, U+958A, U+95B7, U+967A, U+967C, U+967F, U+96A3, U+96B2, U+96B7, U+974E,
+    U+9751, U+9775, U+97C6, U+97D7, U+97DB, U+981A, U+9825, U+98AA-98AB, U+98EE, U+9920, U+99A7,
+    U+99C6, U+99C8, U+99FE, U+9A08, U+9A13, U+9B12, U+9B94, U+9BBC;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./d702c6792f30cc4e0b8972670cbf171c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+78F0, U+78FB, U+7916, U+791D, U+7923, U+79C2, U+79C7, U+79CA, U+7A1C, U+7A2A, U+7A2C, U+7A40,
+    U+7A5D, U+7AB1, U+7ADC, U+7AFC, U+7B01, U+7B1A, U+7B1D, U+7B42, U+7B44, U+7B53, U+7B63, U+7B6A,
+    U+7B78, U+7B7A, U+7B82, U+7BA3, U+7BBA, U+7BD8, U+7BE2, U+7BF6, U+7BFB, U+7BFD, U+7BFF, U+7C0A,
+    U+7C1D, U+7C35, U+7C82, U+7C8E, U+7CAD, U+7CD0, U+7CDA, U+7CE9, U+7F3C, U+7F53, U+7F64, U+8002,
+    U+8009, U+8013, U+8040, U+8060, U+8074, U+808A, U+8090, U+8095, U+809E, U+80C9, U+80D1, U+80E3,
+    U+80F7, U+8103, U+8115, U+8119, U+812A, U+8133-8134, U+813C, U+8141-8142, U+8144, U+815C,
+    U+8162, U+816C, U+81A4-81A5, U+81AB, U+81CB, U+81D0, U+81D3, U+820E, U+8215, U+8217, U+827C,
+    U+8285, U+829E, U+82B5, U+82C3, U+82C6, U+82D6, U+82F2, U+82F5, U+82F8, U+82FC, U+830A, U+8319,
+    U+8320, U+8323, U+8326, U+833F, U+8341;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./a8e5bf8117ed42d6a5df46260d9001d4.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+6B7A, U+6B7D, U+6B9F, U+6BAC, U+6BB1, U+6BCE, U+6BDF, U+6BEE, U+6C0B, U+6C0E, U+6C8E, U+6CB7,
+    U+6D42, U+6E03, U+6E09, U+6E2A, U+6E42, U+6E61, U+6E80, U+6E95, U+6F55, U+6F79, U+6FAB, U+6FBF,
+    U+6FF2, U+6FF9, U+6FFF, U+700E, U+701E, U+7031, U+7047, U+7071, U+7074, U+708B, U+7093, U+70A3,
+    U+70C5-70C6, U+70CC-70CD, U+70D2, U+710F, U+711F, U+7128, U+712C, U+713A-713B, U+7142, U+7144,
+    U+714D, U+714F, U+7154, U+7158, U+715F, U+7170, U+7179, U+717C, U+7181-7182, U+719C,
+    U+71BC-71BD, U+71C6, U+71D0, U+71E4, U+71E8, U+7203, U+7205, U+720F, U+721E, U+7223, U+7227,
+    U+722B, U+7234, U+724A, U+72A1, U+72B1, U+72C5, U+733C, U+735B, U+7373, U+73A4, U+73F1, U+744C,
+    U+7498, U+7575, U+7676, U+76C1, U+76DA, U+770F, U+7781, U+7796, U+77CE, U+77EA, U+784F, U+7872,
+    U+78CC;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./7786c2938e98b0551efdd5865a9222dc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+5D19, U+5D43-5D44, U+5D7C, U+5D83, U+5DD9, U+5DFB, U+5E28, U+5E32, U+5E59, U+5E60, U+5E77,
+    U+5EFD, U+5F09, U+5F16, U+5F2B-5F2C, U+5F3E, U+5F41, U+5F45, U+5F51, U+5F72, U+5F8F, U+5FF9,
+    U+6039, U+6090, U+60A9, U+60E5, U+6144, U+6154, U+61A0, U+61F1, U+62B0, U+62CF, U+6315, U+63B5,
+    U+63F7, U+63FA, U+6422-6423, U+647E, U+649A, U+649D, U+64CF, U+64EB, U+650E, U+6510, U+6565,
+    U+6579, U+6581, U+6589, U+6598, U+65E1, U+65FE, U+661B, U+6671, U+66AF, U+66C6, U+66DE, U+66FB,
+    U+6707, U+6721, U+6763, U+6779, U+677B, U+679B, U+6820, U+6826, U+683A, U+6857, U+685C, U+6891,
+    U+68BB, U+691C, U+6967, U+69A3, U+69B5, U+69DD, U+69E9, U+6A03, U+6A2E, U+6A30, U+6A37, U+6A57,
+    U+6A73, U+6AA8, U+6ACF, U+6B25, U+6B2B, U+6B54, U+6B5A, U+6B69, U+6B6F, U+6B76;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c858d6b1cc97f4ce068135920b1d328b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4FE2, U+4FF7, U+5010, U+5024, U+5039, U+505D, U+5071, U+507A, U+507C, U+5087, U+50BC, U+50C1,
+    U+50E0, U+50FD, U+5116, U+5128, U+514F, U+51A3, U+51A9, U+51AD, U+51F2, U+5262-5263, U+5266,
+    U+5271, U+5277, U+5292, U+52B6-52B7, U+52C4, U+5303, U+5307, U+531B, U+531E, U+5328-5329,
+    U+5414, U+5419, U+5437, U+5444, U+5449, U+549E, U+54CB, U+5500, U+5512, U+5560, U+558C, U+55C0,
+    U+55C2, U+55E0, U+55E2, U+565B, U+5690, U+56A0, U+56C6, U+56F3, U+570F, U+5738, U+57B9, U+585A,
+    U+5870, U+587B, U+58E1, U+58F5, U+58FB, U+58FF, U+5918, U+591B, U+5936, U+5970, U+5995, U+599B,
+    U+5A27, U+5A2F, U+5A3F, U+5A72, U+5A8D, U+5B36, U+5B3E, U+5B52, U+5B5E, U+5B6F, U+5B7E, U+5BF3,
+    U+5C23, U+5C2E, U+5C36, U+5C5B, U+5CB2, U+5CC0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e0dec86d9b3cbd032d4407cd09fa6910.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+34F0, U+3506, U+3513, U+351E, U+353E, U+366F, U+382F, U+387C, U+393A, U+3A6C, U+3A93, U+3AC1,
+    U+3B05, U+3B50, U+3B9D, U+3C94, U+3CFD, U+3D1D, U+3D33, U+3D6E, U+3D96, U+3E3F, U+3EAC, U+4039,
+    U+40E3, U+4227, U+4266, U+4301, U+4359, U+43D5, U+43D9, U+440B, U+4450, U+446E, U+44B3, U+452B,
+    U+4548, U+454E, U+455D, U+4561, U+4695, U+46BE, U+46C7, U+4748, U+47B1, U+4888, U+48DF, U+49C8,
+    U+4A76, U+4A9F, U+4AB2, U+4AEC, U+4BA7, U+4BCE, U+4C41, U+4CA3, U+4CED, U+4DB6-4DBF, U+4E12,
+    U+4E41, U+4E55, U+4E5A-4E5B, U+4E62, U+4E74-4E75, U+4E77, U+4E80, U+4E85, U+4E90, U+4E9C,
+    U+4ED0, U+4EFE, U+4F2E, U+4F31, U+4F71, U+4FBB, U+4FD6;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b2b64accad7ee348294732cce7f10973.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2F92-2FD5, U+2FFC-2FFF, U+31BC-31BF, U+31D2, U+31E4-31E5, U+31EF, U+34C1, U+34DF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./43c07481c68344ce00d952668fb2c6db.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2F45-2F91;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./efc47220d9c2ef58304316de79310148.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EF1-2EF3, U+2F00-2F44;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./c0cde24704fda0b59423e912547c135c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2EB0-2EF0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./b9d695ed8f931366370e2126b017a731.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2656-265F, U+2E80-2E99, U+2E9B-2EAF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bbd914f6025e8181153036776b37534c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+0, U+560, U+1D35, U+1DA6-1DA7, U+1E2C, U+1E2E, U+1EC8, U+1ECA, U+2400-2421, U+2654-2655;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./afd28f9a88b9607836f770752688d7f1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+51DC, U+524E, U+5442, U+58D8, U+58DF, U+5C62, U+5D50, U+5EEC, U+6190, U+61F6, U+6200, U+64C4,
+    U+6688, U+6AD3, U+6BAE, U+6DDA, U+6DEA, U+6F23, U+6FEB, U+721B, U+7375, U+7469, U+7489, U+7669,
+    U+76E7, U+792A, U+797F, U+7C3E, U+7C60, U+7CF9, U+7D5B, U+7DBE, U+7E09, U+7E37, U+7F88, U+8070,
+    U+807E, U+8156, U+84EE, U+85FA, U+8606, U+863F, U+865C, U+87F6, U+881F, U+8964, U+8AD2, U+8B01,
+    U+8C48, U+8CC2, U+8CC8, U+8E9A, U+8F26, U+8F62, U+9148, U+9234, U+9238, U+93F9, U+95AD, U+98E0,
+    U+99F1, U+9A6A, U+9C57, U+9DFA, U+9E1D-9E1E, U+9EFD, U+9F9C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./5f97603c6e9bf45f8be5a4052a4fb74b.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4E82, U+4F86, U+502B, U+5169, U+5289, U+52DE, U+52F5, U+53C3, U+5553, U+5606, U+5716, U+5922,
+    U+5A66, U+5BE7, U+5C64, U+5DBA, U+5FA9, U+60E1, U+6236, U+6383, U+6578, U+6A02, U+6A13, U+6B04,
+    U+6B77, U+6BBA, U+6F22, U+6FFE, U+7149, U+7210, U+72C0, U+7570, U+7642, U+79AE, U+7BC0, U+7CE7,
+    U+7D10, U+7DA0, U+7DF4, U+7F85, U+806F, U+81D8, U+81E8, U+8449, U+85CD, U+862D, U+88CF, U+898B,
+    U+8996, U+8AAA, U+8ABF, U+8ACB, U+8AD6, U+8AF8, U+8AFE, U+8B39, U+8B58, U+8B80, U+8C9D, U+8CD3,
+    U+8D08, U+8ECA, U+8F2A, U+8F3B, U+9023, U+9077, U+907C, U+908F, U+9304, U+9577, U+9580, U+9678,
+    U+96E2-96E3, U+9748, U+9801, U+9818, U+983B, U+985E, U+98DB, U+990A, U+99AC, U+9B25, U+9B5A,
+    U+9B6F, U+9CE5, U+9E97, U+9EA5, U+9EC3, U+9F8D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./73b657bc9e6ce4ec77b36fdd51d8fb8c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4E28, U+4E36, U+4E3F, U+5182, U+5196, U+51AB, U+5202, U+52F9, U+5369, U+5902, U+5C22, U+5C6E,
+    U+5DDB, U+5ED2, U+5EFE, U+5F50, U+5F61, U+5F73, U+5FC4, U+6534-6535, U+6BB3, U+706C, U+7228,
+    U+72AD, U+758B, U+793B, U+7CE8, U+7E9F, U+8080, U+80AD, U+8279, U+864D, U+8864, U+8930, U+8BA0,
+    U+8FB6, U+961D, U+9963, U+9B2F, U+9FA0;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6c743cb32e387e22141aae6ca8e8d240.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4E32, U+4E38, U+4EBB, U+4FAE, U+50DA, U+50E7, U+5140, U+51CC, U+52A3, U+52C9, U+52FA, U+5315,
+    U+533F, U+5351, U+535C, U+5364, U+540F, U+541D, U+54BD, U+5587, U+56D7, U+56F9, U+58F3, U+5915,
+    U+5948, U+5BEE, U+5BF8, U+5C38, U+5DF3, U+5DFD-5DFE, U+5E7A, U+5ED3, U+5F04, U+5F0B, U+5FB5,
+    U+6012, U+601C, U+6094, U+618E, U+6208, U+622E, U+624C, U+62FE, U+637B, U+63A0, U+6556, U+65A4,
+    U+6674, U+67F3, U+6817, U+68A8, U+6B20, U+6B79, U+6C35, U+6C88, U+6DCB, U+6E6E, U+6E9C, U+6EBA,
+    U+7099, U+70D9, U+716E, U+71CE, U+722A, U+7235, U+723F, U+72AC, U+72FC, U+73B2, U+73DE, U+7409,
+    U+7422, U+7436, U+745F, U+75E2, U+761F, U+76BF, U+77E2, U+786B, U+788C, U+7891, U+78CA, U+79BE,
+    U+79EB, U+7B20, U+7F79, U+7F9A, U+8046, U+807F, U+808B, U+81ED, U+81FC, U+828B, U+829D, U+83CA,
+    U+83F1, U+84FC, U+864E, U+87BA, U+88F8, U+8910, U+8C55, U+8C78, U+8D64, U+8DCB, U+8FB0, U+9038,
+    U+9091, U+9157, U+916A, U+91B4, U+9485, U+961C, U+962E, U+964B, U+96B6, U+9756, U+97E6, U+97ED,
+    U+9B3C, U+9B45, U+9E7F, U+9E9F, U+9ECD-9ECE, U+9EFE, U+9F0E, U+9F7F, U+9F9F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./6336be427cc8723d5a3e1f7fe3763973.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4E39, U+4E59, U+4EAE, U+4EE4, U+4FBF, U+516D, U+51B7, U+51C9, U+5200, U+523A, U+52C7, U+52D2,
+    U+52E4, U+5375, U+5382, U+53E5, U+5438, U+5448, U+559D, U+585E, U+58A8, U+58EB, U+5951, U+5973,
+    U+5B85, U+5BFF, U+5C3F, U+5C65, U+5EC9, U+62C9, U+62D3-62D4, U+6469, U+654F, U+656C, U+6597,
+    U+65C5, U+66B4, U+66F0, U+6717, U+671B, U+6728, U+674E, U+6797, U+6881, U+6885, U+6B62, U+6BCD,
+    U+6BDB, U+6CCC, U+6CE5, U+6D1B, U+6D1E, U+6D6A, U+6D78, U+6ED1, U+6F0F, U+706B, U+70AD, U+70C8,
+    U+725B, U+7262, U+732A, U+7389, U+7518, U+7530, U+7559, U+7565, U+76AE, U+77DB, U+7A81, U+7AF9,
+    U+7C73, U+7C92, U+7CD6, U+7D22, U+7D2F, U+7E41, U+7F8A, U+8033, U+8089, U+826F, U+82E5-82E6,
+    U+8336, U+83CC, U+83DC, U+8457, U+85CF, U+866B, U+88C2, U+89D2, U+8C37, U+8C46, U+8D1D, U+9675,
+    U+9686, U+96E8, U+96F6-96F7, U+9732, U+9752, U+9875, U+98DE, U+9999, U+9AA8, U+9C7C, U+9E1F,
+    U+9EA6, U+9EC4, U+9ED1, U+9F13, U+9F50, U+9F99;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./9062a4a52b16875c0772cc0864a49cb8.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range:
+    U+4E00, U+4E0D, U+4E86, U+4E8C, U+4EBA, U+4EC0, U+4F8B, U+513F, U+5145, U+5168, U+51E0, U+5207,
+    U+5217, U+5229, U+529B, U+5317, U+5341, U+53CA, U+53E3, U+5584, U+5668, U+571F, U+5927, U+5B50,
+    U+5C0F, U+5DE5, U+5DF1, U+5E72, U+5E74, U+5EA6, U+5F8B, U+5FC3, U+5FF5, U+624B, U+652F, U+6599,
+    U+65E0, U+65E5, U+6613, U+66F4, U+6700, U+6708, U+6B21, U+6C11, U+6C14, U+6C34, U+6D41, U+6D77,
+    U+7247, U+7387, U+7406, U+751F, U+7528, U+767D, U+76CA, U+76EE, U+76F4, U+7701, U+7740, U+77F3,
+    U+7ACB, U+8001, U+8005, U+800C, U+80B2, U+81EA, U+8272, U+82B1, U+843D, U+8840, U+884C, U+897F,
+    U+89C1, U+8D70, U+8D77, U+8DB3, U+8DEF, U+8F66, U+91CC, U+91CF, U+91D1, U+957F, U+95E8, U+964D,
+    U+9762, U+9769, U+98CE, U+98DF, U+9996, U+9A6C;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./bb6ef364fc906268662b2d2a2b97c0ba.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+2018-2019, U+201C-201D;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ce5a14265d2d42089a2bf1ddb5a08318.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+406-407, U+4C0, U+4CF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fb794b93f4105139d8bc422808672944.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+38A, U+399, U+3AA, U+1F38-1F3F, U+1FD8-1FDB;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./299e19da8bd5cfa2d8003d050f80b83d.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+197, U+1CF, U+208, U+20A;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./e5e07df9924c055847c6ab3c8710fe2c.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+128, U+12A, U+12C, U+12E, U+130, U+132;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./fc0606aedaf5fe63e072a8d56de76377.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+DA-FF;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./f6335c776aa6cb0a83e35024bace3fd7.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+80-D9;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./ca35be00ec5edbf51d43cb7abb03b9bc.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+5E-7F;
+}
+@font-face {
+  font-family: "Plangothic P1";
+  src:
+    local("Plangothic P1"),
+    url("./17521b2dc42750ee2c62c5958df1f9a1.woff2") format("woff2");
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  unicode-range: U+1-7, U+A-C, U+E-5D;
+}
